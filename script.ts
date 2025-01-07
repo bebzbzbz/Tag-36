@@ -1,7 +1,4 @@
 // ======= TUPLE =======
-
-import { clampWithOptions } from "date-fns/fp";
-
 // ======= Lvl 1_1 =======
 console.log("Tuple Lvl 1_1");
 
